@@ -1,0 +1,17 @@
+h1{
+    color:red ;
+    background-color:blue;
+}
+body{
+   /* background-color:green; */
+   background-image:url('images/back.avif');
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position-x: center;
+   /* background-position: center;/ */
+   /* background-position: right; */
+
+}
+p{
+    color: beige;
+}
